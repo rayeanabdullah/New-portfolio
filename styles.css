@@ -18,16 +18,24 @@ p{
     padding: 5%;
 }
 #im{
-    height: 400px;
+    height: 450px;
     width: 200px;
     border-radius:10px ;
-    border: 5px solid black;
+    border: 5px solid rgba(5, 0, 0, 0.884);
     margin-right: 15px;
     
 }
 section{
-    display:flex;
+    display: flex;
     background-color: rgba(204, 96, 45, 0.404) ;
     border-radius: 10px;
     border: 5px solid rgba(0, 0, 0, 0.205);
+}
+#btn{
+    background-color:rgba(177, 86, 34, 0.842) ;
+    border-radius: 15px;
+    border: 2px solid rgba(8, 7, 7, 0.527);
+}
+#rn{
+     color: rgb(94, 54, 27);
 }
