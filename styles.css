@@ -28,11 +28,12 @@ p{
     margin-right: 15px;
     
 }
-section{
+.sec1{
     display: flex;
     background-color: rgba(204, 96, 45, 0.404) ;
     border-radius: 10px;
     border: 5px solid rgba(0, 0, 0, 0.205);
+    font: optional;
 }
 #btn{
     background-image:linear-gradient(rgb(124, 75, 0),rgb(201, 110, 24));
@@ -43,4 +44,18 @@ section{
 #rn{
      color: rgb(94, 54, 27);
      font-weight: 800;
+}
+#img2{
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    border: 4px solid black;
+    margin-left: 10px;  
+}
+.sec2{
+    display: flex;
+    background-color: rgba(204, 96, 45, 0.404) ;
+    border-radius: 10px;
+    border: 5px solid rgba(0, 0, 0, 0.205);
+    text-align: justify;    
 }
