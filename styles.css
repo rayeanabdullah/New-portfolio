@@ -26,9 +26,11 @@ p{
     border-radius:10px ;
     border: 5px solid rgba(5, 0, 0, 0.884);
     margin-right: 15px;
+    box-shadow: 10px 10px 15px rgba(165, 68, 23, 0.5);
     
 }
 .sec1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     display: flex;
     background-color: rgba(204, 96, 45, 0.404) ;
     border-radius: 5px;
@@ -51,6 +53,7 @@ p{
     border-radius: 10px;
     border: 4px solid black;
     margin-left: 100px;  
+    box-shadow: 10px 10px 15px rgb(204, 96, 45 );
 }
 .sec2{
     display: flex;
@@ -59,9 +62,5 @@ p{
     border: 5px solid rgba(0, 0, 0, 0.205);
     text-align: justify;    
 }
-.sec3{
-    background-image: url(download.jpg);
-    border-radius: 5px;
-    margin: 0;
-}
+
 
